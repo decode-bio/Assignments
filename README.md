@@ -18,6 +18,12 @@ Data is downloaded from kaggle. Data is of cars sold by different companies in d
 ### Line Graph
 <img width="1452" height="753" alt="image" src="https://github.com/user-attachments/assets/4d8c93e4-62c9-46b0-b8fe-f60b1f44417a" />
 
+# # Assignment_2 (Modeule 4 & 5)
+* Problem statement: To make the dashboard using the dataset and creating the join between sheets, map and scatter plot.
+
+### Dashboard screenshot
+<img width="1910" height="993" alt="image" src="https://github.com/user-attachments/assets/f3d238f1-8878-4577-9551-2ffbbe997cc6" />
+
 
 
 
