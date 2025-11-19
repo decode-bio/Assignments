@@ -19,10 +19,21 @@ Data is downloaded from kaggle. Data is of cars sold by different companies in d
 <img width="1452" height="753" alt="image" src="https://github.com/user-attachments/assets/4d8c93e4-62c9-46b0-b8fe-f60b1f44417a" />
 
 # # Assignment_2 (Modeule 4 & 5)
-* Problem statement: To make the dashboard using the dataset and creating the join between sheets, map and scatter plot.
+* Problem statement: To make the dashboard using the dataset and creating map, scatter plot and learn how to make join betweeb datasets.
 
 ### Dashboard screenshot
 <img width="1910" height="993" alt="image" src="https://github.com/user-attachments/assets/f3d238f1-8878-4577-9551-2ffbbe997cc6" />
+
+## Assignment_3 (Module 6 & 5)
+* Problem statement: Use calculated fields and story points to present deeper data insights.
+### Customer segmentation Dashboard
+
+<img width="1914" height="959" alt="image" src="https://github.com/user-attachments/assets/42e71918-c453-46ea-8aa6-d7b9bdb9ecb2" />
+
+### Customer segmentation storyline
+<img width="1913" height="967" alt="image" src="https://github.com/user-attachments/assets/2b2bd572-fe39-4126-a00d-d3b4630f2b6a" />
+
+
 
 
 
